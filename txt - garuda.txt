@@ -1,0 +1,31 @@
+Url		: nsreload.com/cpanel
+Username	: nsrm4176
+Password	: DHBSVrAfvCVG46
+Login		: http://garudaumkm.my.id/login
+Username	: admingaruda
+Password	: admingaruda
+DB pass		: pxS8Gph4bP5reUi
+
+==================================================================
+
+- Perizinan
+	> Create kategori 
+	(id, kategori, keterangan, kode_hapus, ca, ua)
+	> Create artikel 
+	(id, id_kategori, judul, gambar, deskripsi, kode_hapus, ca, ua)
+- Video Edu
+	> Create kategori 
+	(id, kategori, keterangan, kode_hapus, ca, ua)
+	> Create artikel 
+	(id, id_kategori, judul, video, deskripsi, kode_hapus, ca, ua)
+- Exportir
+	> Create kategori 
+	(id, kategori, keterangan, kode_hapus, ca, ua)
+	> Create artikel 
+	(id, id_kategori, judul, gambar, deskripsi, kode_hapus, ca, ua)
+- Marketplace
+	> List UMKM 
+	(id, umkm, alamat, email, telp, keterangan, foto, kode_hapus, ca, ua)
+	> List produk dari masing-masing UMKM
+	(id, id_umkm, produk, harga, keterangan, foto, kode_hapus, ca, ua)
+
